@@ -25,7 +25,6 @@
 <br/>
 <br/>
 
-
 - 🔭 I’m currently working on [Front-end].
 - 🌱 I’m currently learning  Fullstack Development.
 - 👯 I’m looking to collaborate on [Youtube]
